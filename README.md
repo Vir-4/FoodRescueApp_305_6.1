@@ -1,2 +1,5 @@
 # FoodRescueApp_305_6.1
 This assessment task intends to provide us with experience in using all concepts that you have we have learnt so far in Android mobile app programming. We were given the requirements of a food rescue mobile app to fight food waste. Our task is to build an android app that can capture all the requirements conveyed in that description.
+
+The Features are:
+The first screen is the login screen where a user logs in or signs up, and the data is retrieved from the database or saved in the database. Home Screen shows all available free food items in the database. There is a menu (popup or options menu) in the home screen that a user can choose other options. When a user clicks on the plus button on the home screen, the app will be directed to the “add a new food item” screen, where users add their food to share. The user then adds an image and gives the app access to pictures and media. This new food item is also added to the recycler views. There is also a share button to share the food item with others. If the user clicks My list in the menu, they can only see all their shared food item
